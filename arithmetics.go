@@ -1,4 +1,4 @@
-package arithmetics
+package arithmetic
 
 func Sum(nums ...int) int {
 	sum := 0
